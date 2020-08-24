@@ -2,13 +2,14 @@
 #################################################################################
 # Copyright 2020 Technexion Ltd.
 #
-# Author: Lance Yen <richard.hu@technexion.com>
+# Author: Lance Yen <lance.yen@technexion.com>
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License version 2 as
 # published by the Free Software Foundation.
 #################################################################################
 
+#for git test add new command
 #global variable
 keypress=0
 
